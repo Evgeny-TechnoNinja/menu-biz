@@ -1,6 +1,6 @@
 # Menu Biz
 
-![скриншот](//github.com/Evgeny-TechnoNinja/menu-biz/raw/master/images/pic-menu.jpg)
+![скриншот](https://github.com/Evgeny-TechnoNinja/menu-biz/raw/master/images/pic-menu.jpg)
 
 Вертикальное меню для сайта, простой пример меню. Меню умеет сворачиваться и разворачиваться, есть эффект при наведении, интересные значки. Меню нарисовал в Фотошопе, затем сверстал и сделал небольшой функционал. Так что, кому нужно пользуйтесь, сморите, буду рад.
 
